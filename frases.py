@@ -61,9 +61,9 @@ async def on_ready():
 
 
 # Configura el token de tu bot de Discord y el ID del canal donde se enviarán las frases
-TOKEN = "MTEwNzczMzA0MjMzMzc0NTE3Mg.GIeYcF.UaWCEJDEPiHXq1aDRdxjIgD7T-p4lx5xF5PeEA"
+TOKEN = "0000000000000"
 # Reemplaza con el ID del canal donde deseas enviar las frases inspiradoras
-CHANNEL_ID = 890010610576814160
+CHANNEL_ID = 00000000000
 
 # Inicia el bot
 bot.run(TOKEN)
